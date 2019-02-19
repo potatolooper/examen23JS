@@ -129,7 +129,7 @@ switch(opciones){
 //La confirmacion de que quieres repetir
 repetir = confirm ('Quieres repetir el ejercicio')
 }
-
+// Mensajes especiales dependiendo de las puntuaciones
 if (i==30) {
 	document.write('<h2>💥💥 Eres un campeon,figura,mastodonte,ciclon,seguro que apruebas 💥💥 </h2>' + '<br>')
 }
