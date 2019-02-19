@@ -1,0 +1,23 @@
+h1{
+	color:blue;
+	margin-top: 1.5em;
+}
+
+hr{
+	color:green;
+}
+
+
+h2{
+	color: brown;
+}
+
+body{
+	background-color: #ACFA58;
+	margin: 2cm;
+	font-family: sans-serif;
+}
+code{
+	font-size: 1.5rem;
+	color: gray;
+}
