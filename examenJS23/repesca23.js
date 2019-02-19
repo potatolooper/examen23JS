@@ -2,7 +2,7 @@
 //El titulo 💥💥
 document.write('<h1> Academia de mates</h1>')
 
-//Esto ya no funciona porque la variable de repetir ya no loconsidera como 1
+//Esto ya no funciona porque la variable de repetir ya no lo considera como 1
 function repetir (){
 	document.location.reload();
 	return;
